@@ -94,7 +94,6 @@ canvas {
 }
 
 
-
 .boton {
   position: fixed;
   bottom: 20px;
@@ -108,8 +107,11 @@ canvas {
   cursor: pointer;
 }
 
-
-
+@media (max-width: 768px) {
+  .boton {
+    right: 20px;
+  }
+}
 
 .spark {
   position: absolute;
