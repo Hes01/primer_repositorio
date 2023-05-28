@@ -145,12 +145,13 @@ canvas {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 50px;
+  color: rgba(255, 255, 255, 0.815);
+  font-size: 20px;
   font-family: 'Bebas Neue', sans-serif;
   text-align: center;
-  text-shadow: 0 0 5px rgba(247, 10, 41, 0.8);
+  text-shadow: 0 0 5px rgba(245, 2, 35, 0.8);
   z-index: 2;
+  background-color: rgba(42, 178, 219, 0.5);
 }
 
 
